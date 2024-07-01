@@ -1,46 +1,59 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <img alt="Focus&Harmony" title="Focus & Harmony" src="" />
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
 
-## Available Scripts
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 
-In the project directory, you can run:
+ <img src="https://img.shields.io/static/v1?label=NLW&message=04&color=8257E5&labelColor=000000" alt="NLW 04" />
+</p>
 
-### `yarn start`
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+  <img alt="Focus&Harmony" src="https://raw.githubusercontent.com/rocketseat-education/nlw-04-reactjs/main/.github/moveit.png" width="100%">
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## ✨ Tecnologias
 
-### `yarn test`
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [React](https://reactjs.org)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-### `yarn build`
+## 💻 Projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Focus&Harmony é um aplicativo inovador que integra a técnica de Pomodoro com exercícios de meditação e foco, criado especialmente para quem passa longas horas na frente do computador. Cada sessão de trabalho de 25 minutos no Focus&Harmony é seguida por intervalos dedicados a práticas de meditação guiada e exercícios para promover um equilíbrio mental e físico.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Essas pausas ajudam a reduzir o estresse, aumentar a concentração e revitalizar o corpo e a mente, garantindo uma maior produtividade e bem-estar ao longo do dia. Se você busca uma maneira eficaz de manter o foco e a harmonia durante suas tarefas, o Focus&Harmony é a ferramenta ideal para transformar sua rotina de trabalho e promover um estilo de vida mais equilibrado.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Layout
 
-### `yarn eject`
+<p align="center">
+  <img alt="" src="" width="100%">
+  <img alt="" src="" width="100%">
+  <img alt="" src="" width="100%">
+</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🚀 Como executar
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Clone o repositório
+- Instale as dependências com `yarn`
+- Inicie o servidor com `yarn dev`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 📄 Licença
 
-## Learn More
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
