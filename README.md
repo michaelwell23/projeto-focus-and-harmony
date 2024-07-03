@@ -1,59 +1,40 @@
-<h1 align="center">
-  <img alt="Focus&Harmony" title="Focus & Harmony" src="" />
-</h1>
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
-</p>
+## Getting Started
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
+First, run the development server:
 
- <img src="https://img.shields.io/static/v1?label=NLW&message=04&color=8257E5&labelColor=000000" alt="NLW 04" />
-</p>
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-<br>
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-<p align="center">
-  <img alt="Focus&Harmony" src="https://raw.githubusercontent.com/rocketseat-education/nlw-04-reactjs/main/.github/moveit.png" width="100%">
-</p>
+You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-## ✨ Tecnologias
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-- [React](https://reactjs.org)
-- [Next.js](https://nextjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## 💻 Projeto
+## Learn More
 
-Focus&Harmony é um aplicativo inovador que integra a técnica de Pomodoro com exercícios de meditação e foco, criado especialmente para quem passa longas horas na frente do computador. Cada sessão de trabalho de 25 minutos no Focus&Harmony é seguida por intervalos dedicados a práticas de meditação guiada e exercícios para promover um equilíbrio mental e físico.
+To learn more about Next.js, take a look at the following resources:
 
-Essas pausas ajudam a reduzir o estresse, aumentar a concentração e revitalizar o corpo e a mente, garantindo uma maior produtividade e bem-estar ao longo do dia. Se você busca uma maneira eficaz de manter o foco e a harmonia durante suas tarefas, o Focus&Harmony é a ferramenta ideal para transformar sua rotina de trabalho e promover um estilo de vida mais equilibrado.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## Layout
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-<p align="center">
-  <img alt="" src="" width="100%">
-  <img alt="" src="" width="100%">
-  <img alt="" src="" width="100%">
-</p>
+## Deploy on Vercel
 
-## 🚀 Como executar
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-- Clone o repositório
-- Instale as dependências com `yarn`
-- Inicie o servidor com `yarn dev`
-
-Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
-
-## 📄 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
