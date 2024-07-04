@@ -2,7 +2,7 @@ import React from 'react';
 
 import styles from '../styles/components/ExperienceBar.module.css';
 
-export default function ExperienceBar() {
+export function ExperienceBar() {
   return (
     <header className={styles.experienceBar}>
       <span>0 xp</span>

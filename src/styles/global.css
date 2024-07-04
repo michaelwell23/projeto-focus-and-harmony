@@ -4,10 +4,6 @@
   box-sizing: border-box;
 }
 
-html {
-  padding: 40px 120px;
-}
-
 :root {
   --white: #fff;
   --background: #f2f3f5;
