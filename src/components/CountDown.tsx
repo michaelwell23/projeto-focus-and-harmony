@@ -59,6 +59,7 @@ export function Countdown() {
           onClick={resetCountddown}
         >
           Ciclo encerrado
+          <img src='icons/check_circle.svg' alt='' />
         </button>
       ) : (
         <>

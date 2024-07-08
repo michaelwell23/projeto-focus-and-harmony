@@ -77,4 +77,10 @@ button.startCycleButton[disabled] {
   background: var(--white);
   color: var(--text);
   cursor: not-allowed;
+
+  border-bottom: 4px solid #4cd62b;
+}
+
+button.startCycleButton[disabled] img {
+  padding-left: 16px;
 }
