@@ -70,6 +70,7 @@
 
 .challengeActive main p {
   line-height: 1.5;
+  margin-bottom: 1.2rem;
 }
 
 .challengeActive footer {
@@ -87,6 +88,8 @@
 
   border: 0;
   border-radius: 5px;
+
+  padding: 1.2rem;
 
   color: var(--white);
 
