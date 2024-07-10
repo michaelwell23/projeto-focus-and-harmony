@@ -1,0 +1,326 @@
+[
+  {
+    "type": "meditation",
+    "title": "Respiração Profunda",
+    "description": "Sente-se confortavelmente, feche os olhos e respire profundamente pelo nariz, segurando o ar por alguns segundos antes de expirar lentamente pela boca.",
+    "amount": 5
+  },
+  {
+    "type": "meditation",
+    "title": "Atenção Plena",
+    "description": "Feche os olhos e concentre-se em cada parte do seu corpo, começando pelos pés e subindo até a cabeça. Observe as sensações sem julgá-las.",
+    "amount": 7
+  },
+  {
+    "type": "meditation",
+    "title": "Visualização Positiva",
+    "description": "Sente-se confortavelmente e visualize um lugar onde você se sinta seguro e relaxado. Tente imaginar todos os detalhes desse lugar.",
+    "amount": 6
+  },
+  {
+    "type": "meditation",
+    "title": "Mantra Silencioso",
+    "description": "Escolha uma palavra ou frase curta que lhe traga paz. Repita-a mentalmente enquanto se concentra na respiração.",
+    "amount": 8
+  },
+  {
+    "type": "exercise",
+    "title": "Alongamento de Braços",
+    "description": "Estique os braços para cima e depois para os lados, mantendo cada posição por 15 segundos.",
+    "amount": 50
+  },
+  {
+    "type": "exercise",
+    "title": "Agachamentos",
+    "description": "Faça agachamentos lentos e controlados, mantendo os pés afastados na largura dos ombros.",
+    "amount": 100
+  },
+  {
+    "type": "exercise",
+    "title": "Flexões de Braço",
+    "description": "Faça flexões de braço mantendo o corpo alinhado e descendo até que o peito quase toque o chão.",
+    "amount": 12
+  },
+  {
+    "type": "exercise",
+    "title": "Corrida no Lugar",
+    "description": "Corra no lugar levantando os joelhos o mais alto possível.",
+    "amount": 8
+  },
+  {
+    "type": "exercise",
+    "title": "Pular Corda Imaginária",
+    "description": "Simule pular corda, mantendo um ritmo constante e movendo os braços como se estivesse segurando uma corda.",
+    "amount": 7
+  },
+  {
+    "type": "body",
+    "title": "Alongamento de Braços",
+    "description": "Estique um de seus braços com a palma da mão virada para frente e puxe os dedos para cima por 10 segundos por mão.",
+    "amount": 80
+  },
+  {
+    "type": "body",
+    "title": "Esticando os Braços",
+    "description": "Estique seu braço contra o peito e puxe-o utilizando o outro braço por 10 segundos por braço.",
+    "amount": 60
+  },
+  {
+    "type": "body",
+    "title": "Alongamento do Pescoço",
+    "description": "Puxe seu pescoço com a ajuda da mão para a direita e para a esquerda, permanecendo na posição por alguns segundos.",
+    "amount": 70
+  },
+  {
+    "type": "body",
+    "title": "Alongamento da Região Cervical",
+    "description": "Com as duas mãos na parte de trás da cabeça, leve-a para baixo, alongando a parte de trás da região.",
+    "amount": 60
+  },
+  {
+    "type": "body",
+    "title": "Alongamento das Pernas",
+    "description": "Cruze as pernas e desça com as mãos esticadas em direção ao chão. Repita o movimento com a outra perna na frente.",
+    "amount": 100
+  },
+  {
+    "type": "body",
+    "title": "Alongamento das Pernas Sentado",
+    "description": "Sentado, abra as pernas e tente encostar as palmas das mãos no chão, repita 3 vezes por 5 segundos.",
+    "amount": 80
+  },
+  {
+    "type": "body",
+    "title": "Alongamento dos Joelhos",
+    "description": "Puxe o joelho de encontro ao peito e segure, troque de perna após 10 segundos.",
+    "amount": 50
+  },
+  {
+    "type": "body",
+    "title": "Inclinação do Tronco Sentado",
+    "description": "Sentado, cruze uma perna e incline seu tronco à frente, troque de perna após 10 segundos.",
+    "amount": 80
+  },
+  {
+    "type": "eye",
+    "title": "Descanso dos Olhos",
+    "description": "Sentado, feche os olhos e cubra-os com as palmas da mão durante 2 minutos, depois abra normalmente.",
+    "amount": 90
+  },
+  {
+    "type": "eye",
+    "title": "Exercício de Visão Periférica",
+    "description": "Em algum ambiente aberto, olhe o mais longe que puder em quatro direções por 3s, mexa apenas os olhos. Repita 3 vezes.",
+    "amount": 140
+  },
+  {
+    "type": "eye",
+    "title": "Massagem Ocular",
+    "description": "Usando os polegares, massage a área abaixo das sobrancelhas em movimentos circulares por 15 segundos.",
+    "amount": 70
+  },
+  {
+    "type": "body",
+    "title": "Giro da Cintura",
+    "description": "Em pé, gire a cintura o máximo que puder para a esquerda, segure por cinco segundos. Repita para a direita.",
+    "amount": 90
+  },
+  {
+    "type": "exercise",
+    "title": "Rotação de Pescoço",
+    "description": "Gire a cabeça lentamente em círculos, primeiro para a direita e depois para a esquerda.",
+    "amount": 4
+  },
+  {
+    "type": "meditation",
+    "title": "Respiração Profunda",
+    "description": "Sente-se confortavelmente, feche os olhos e respire profundamente pelo nariz, segurando o ar por alguns segundos antes de expirar lentamente pela boca.",
+    "amount": 5
+  },
+  {
+    "type": "meditation",
+    "title": "Atenção Plena",
+    "description": "Feche os olhos e concentre-se em cada parte do seu corpo, começando pelos pés e subindo até a cabeça. Observe as sensações sem julgá-las.",
+    "amount": 7
+  },
+  {
+    "type": "meditation",
+    "title": "Visualização Positiva",
+    "description": "Sente-se confortavelmente e visualize um lugar onde você se sinta seguro e relaxado. Tente imaginar todos os detalhes desse lugar.",
+    "amount": 6
+  },
+  {
+    "type": "meditation",
+    "title": "Mantra Silencioso",
+    "description": "Escolha uma palavra ou frase curta que lhe traga paz. Repita-a mentalmente enquanto se concentra na respiração.",
+    "amount": 8
+  },
+  {
+    "type": "exercise",
+    "title": "Alongamento de Braços",
+    "description": "Estique os braços para cima e depois para os lados, mantendo cada posição por 15 segundos.",
+    "amount": 5
+  },
+  {
+    "type": "exercise",
+    "title": "Agachamentos",
+    "description": "Faça agachamentos lentos e controlados, mantendo os pés afastados na largura dos ombros.",
+    "amount": 10
+  },
+  {
+    "type": "exercise",
+    "title": "Flexões de Braço",
+    "description": "Faça flexões de braço mantendo o corpo alinhado e descendo até que o peito quase toque o chão.",
+    "amount": 12
+  },
+  {
+    "type": "exercise",
+    "title": "Corrida no Lugar",
+    "description": "Corra no lugar levantando os joelhos o mais alto possível.",
+    "amount": 8
+  },
+  {
+    "type": "exercise",
+    "title": "Pular Corda Imaginária",
+    "description": "Simule pular corda, mantendo um ritmo constante e movendo os braços como se estivesse segurando uma corda.",
+    "amount": 7
+  },
+  {
+    "type": "exercise",
+    "title": "Rotação de Pescoço",
+    "description": "Gire a cabeça lentamente em círculos, primeiro para a direita e depois para a esquerda.",
+    "amount": 4
+  },
+  {
+    "type": "meditation",
+    "title": "Respiração Diáfana",
+    "description": "Sente-se com a coluna ereta e respire profundamente, expandindo o abdômen ao inspirar e contraindo-o ao expirar.",
+    "amount": 15
+  },
+  {
+    "type": "meditation",
+    "title": "Observação de Pensamentos",
+    "description": "Sente-se em silêncio e observe seus pensamentos passarem como nuvens no céu, sem se apegar a nenhum deles.",
+    "amount": 18
+  },
+  {
+    "type": "meditation",
+    "title": "Gratidão",
+    "description": "Pense em três coisas pelas quais você é grato neste momento. Sinta essa gratidão em seu coração.",
+    "amount": 20
+  },
+  {
+    "type": "meditation",
+    "title": "Escaneamento Corporal",
+    "description": "Feche os olhos e escaneie seu corpo, prestando atenção em qualquer tensão ou desconforto. Relaxe essas áreas conscientemente.",
+    "amount": 22
+  },
+  {
+    "type": "exercise",
+    "title": "Polichinelos",
+    "description": "Faça polichinelos, pulando e estendendo os braços para cima a cada salto.",
+    "amount": 25
+  },
+  {
+    "type": "exercise",
+    "title": "Prancha Abdominal",
+    "description": "Apoie-se nos antebraços e nos dedos dos pés, mantendo o corpo reto e os músculos abdominais contraídos.",
+    "amount": 30
+  },
+  {
+    "type": "exercise",
+    "title": "Subir e Descer de Degrau",
+    "description": "Encontre um degrau seguro. Suba e desça rapidamente, alternando os pés.",
+    "amount": 28
+  },
+  {
+    "type": "exercise",
+    "title": "Dança Rápida",
+    "description": "Coloque uma música animada e dance livremente por 5 minutos.",
+    "amount": 35
+  },
+  {
+    "type": "exercise",
+    "title": "Flexões de Tríceps",
+    "description": "Faça flexões focadas nos músculos tríceps, mantendo os cotovelos próximos ao corpo.",
+    "amount": 32
+  },
+  {
+    "type": "exercise",
+    "title": "Agachamento com Salto",
+    "description": "Faça agachamentos e, ao subir, salte o mais alto que puder.",
+    "amount": 38
+  },
+  {
+    "type": "exercise",
+    "title": "Bicicleta no Ar",
+    "description": "Deite-se de costas, levante as pernas e simule pedalar no ar, mantendo a barriga contraída.",
+    "amount": 40
+  },
+  {
+    "type": "exercise",
+    "title": "Flexão Lateral",
+    "description": "Fique em pé e incline o tronco para um lado, estendendo o braço oposto sobre a cabeça. Repita para o outro lado.",
+    "amount": 45
+  },
+  {
+    "type": "exercise",
+    "title": "Abdominais Rápidos",
+    "description": "Faça abdominais rápidos, levantando o tronco em direção aos joelhos flexionados.",
+    "amount": 42
+  },
+  {
+    "type": "exercise",
+    "title": "Flexões de Braço com Pernas Elevadas",
+    "description": "Faça flexões de braço com as pernas elevadas em uma cadeira ou banco estável.",
+    "amount": 48
+  },
+  {
+    "type": "exercise",
+    "title": "Corrida Estacionária",
+    "description": "Corra no lugar o mais rápido que puder, mantendo os joelhos elevados.",
+    "amount": 50
+  },
+  {
+    "type": "exercise",
+    "title": "Yoga Rápido",
+    "description": "Execute uma sequência rápida de posturas de yoga como o gato-vaca, cão olhando para baixo e árvore.",
+    "amount": 55
+  },
+  {
+    "type": "meditation",
+    "title": "Caminho da Respiração",
+    "description": "Concentre-se em seguir o caminho da sua respiração, desde as narinas até o abdômen. Sinta a respiração fluir suavemente.",
+    "amount": 60
+  },
+  {
+    "type": "meditation",
+    "title": "Silêncio Interior",
+    "description": "Silencie sua mente por alguns minutos, permitindo que pensamentos e preocupações se dissipem naturalmente.",
+    "amount": 65
+  },
+  {
+    "type": "meditation",
+    "title": "Presença Plena",
+    "description": "Esteja completamente presente no momento atual, sem se prender ao passado ou antecipar o futuro.",
+    "amount": 70
+  },
+  {
+    "type": "meditation",
+    "title": "Respiração Consciente",
+    "description": "Pratique a respiração consciente, sentindo o fluxo de ar entrar e sair do seu corpo com total atenção.",
+    "amount": 75
+  },
+  {
+    "type": "meditation",
+    "title": "Aceitação",
+    "description": "Pratique a aceitação plena do momento presente, incluindo as emoções e sensações que surgem.",
+    "amount": 80
+  },
+  {
+    "type": "meditation",
+    "title": "Equilíbrio Interno",
+    "description": "Encontre equilíbrio emocional e mental através da meditação",
+    "amount": 100
+  }
+]
