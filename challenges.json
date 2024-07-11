@@ -24,31 +24,31 @@
     "amount": 8
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Alongamento de Braços",
     "description": "Estique os braços para cima e depois para os lados, mantendo cada posição por 15 segundos.",
     "amount": 50
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Agachamentos",
     "description": "Faça agachamentos lentos e controlados, mantendo os pés afastados na largura dos ombros.",
     "amount": 100
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Flexões de Braço",
     "description": "Faça flexões de braço mantendo o corpo alinhado e descendo até que o peito quase toque o chão.",
     "amount": 12
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Corrida no Lugar",
     "description": "Corra no lugar levantando os joelhos o mais alto possível.",
     "amount": 8
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Pular Corda Imaginária",
     "description": "Simule pular corda, mantendo um ritmo constante e movendo os braços como se estivesse segurando uma corda.",
     "amount": 7
@@ -126,7 +126,7 @@
     "amount": 90
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Rotação de Pescoço",
     "description": "Gire a cabeça lentamente em círculos, primeiro para a direita e depois para a esquerda.",
     "amount": 4
@@ -156,37 +156,37 @@
     "amount": 8
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Alongamento de Braços",
     "description": "Estique os braços para cima e depois para os lados, mantendo cada posição por 15 segundos.",
     "amount": 5
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Agachamentos",
     "description": "Faça agachamentos lentos e controlados, mantendo os pés afastados na largura dos ombros.",
     "amount": 10
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Flexões de Braço",
     "description": "Faça flexões de braço mantendo o corpo alinhado e descendo até que o peito quase toque o chão.",
     "amount": 12
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Corrida no Lugar",
     "description": "Corra no lugar levantando os joelhos o mais alto possível.",
     "amount": 8
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Pular Corda Imaginária",
     "description": "Simule pular corda, mantendo um ritmo constante e movendo os braços como se estivesse segurando uma corda.",
     "amount": 7
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Rotação de Pescoço",
     "description": "Gire a cabeça lentamente em círculos, primeiro para a direita e depois para a esquerda.",
     "amount": 4
@@ -216,73 +216,73 @@
     "amount": 22
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Polichinelos",
     "description": "Faça polichinelos, pulando e estendendo os braços para cima a cada salto.",
     "amount": 25
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Prancha Abdominal",
     "description": "Apoie-se nos antebraços e nos dedos dos pés, mantendo o corpo reto e os músculos abdominais contraídos.",
     "amount": 30
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Subir e Descer de Degrau",
     "description": "Encontre um degrau seguro. Suba e desça rapidamente, alternando os pés.",
     "amount": 28
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Dança Rápida",
     "description": "Coloque uma música animada e dance livremente por 5 minutos.",
     "amount": 35
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Flexões de Tríceps",
     "description": "Faça flexões focadas nos músculos tríceps, mantendo os cotovelos próximos ao corpo.",
     "amount": 32
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Agachamento com Salto",
     "description": "Faça agachamentos e, ao subir, salte o mais alto que puder.",
     "amount": 38
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Bicicleta no Ar",
     "description": "Deite-se de costas, levante as pernas e simule pedalar no ar, mantendo a barriga contraída.",
     "amount": 40
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Flexão Lateral",
     "description": "Fique em pé e incline o tronco para um lado, estendendo o braço oposto sobre a cabeça. Repita para o outro lado.",
     "amount": 45
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Abdominais Rápidos",
     "description": "Faça abdominais rápidos, levantando o tronco em direção aos joelhos flexionados.",
     "amount": 42
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Flexões de Braço com Pernas Elevadas",
     "description": "Faça flexões de braço com as pernas elevadas em uma cadeira ou banco estável.",
     "amount": 48
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Corrida Estacionária",
     "description": "Corra no lugar o mais rápido que puder, mantendo os joelhos elevados.",
     "amount": 50
   },
   {
-    "type": "exercise",
+    "type": "body",
     "title": "Yoga Rápido",
     "description": "Execute uma sequência rápida de posturas de yoga como o gato-vaca, cão olhando para baixo e árvore.",
     "amount": 55
