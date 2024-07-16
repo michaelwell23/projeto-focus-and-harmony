@@ -1,25 +1,25 @@
 import cx from 'classnames';
 
-import { useContext, useEffect, useState } from 'react';
-import styles from '../styles/components/Countdown.module.css';
+import { useChallenges } from '@/hooks/useChallenges';
+import { useCountdown } from '@/hooks/useCountdown';
 
-import { CountdownContext } from '@/contexts/CountdownContext';
+import styles from '../styles/components/Countdown.module.css';
 
 export function Countdown() {
   const {
+    isActive,
+    hasFinished,
+    resetCountdown,
+    startCountdown,
     minutes,
     seconds,
-    hasFinished,
-    resetCountddown,
-    isActive,
-    startCountdown,
-  } = useContext(CountdownContext);
+  } = useCountdown();
 
   const [minuteLeft, minuteRight] = String(minutes).padStart(2, '0').split('');
   const [secondLeft, secondRight] = String(seconds).padStart(2, '0').split('');
 
   return (
-    <div>
+    <>
       <div className={styles.countdown}>
         <div>
           <span>{minuteLeft}</span>
@@ -33,14 +33,8 @@ export function Countdown() {
       </div>
 
       {hasFinished ? (
-        <button
-          disabled
-          type='button'
-          className={styles.startCycleButton}
-          onClick={resetCountddown}
-        >
+        <button disabled className={styles.startCycleButton}>
           Ciclo encerrado
-          <img src='icons/check_circle.svg' alt='' />
         </button>
       ) : (
         <>
@@ -51,7 +45,7 @@ export function Countdown() {
                 styles.startCycleButton,
                 styles.startCycleButtonActive
               )}
-              onClick={resetCountddown}
+              onClick={resetCountdown}
             >
               Abandonar ciclo
             </button>
@@ -61,11 +55,11 @@ export function Countdown() {
               className={styles.startCycleButton}
               onClick={startCountdown}
             >
-              Iniciar ciclo
+              Iniciar um ciclo
             </button>
           )}
         </>
       )}
-    </div>
+    </>
   );
 }

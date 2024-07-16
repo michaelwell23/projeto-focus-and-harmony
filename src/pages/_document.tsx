@@ -22,5 +22,3 @@ export default class MyDocument extends Document {
     );
   }
 }
-
-// PAUSADO 34:53

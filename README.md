@@ -64,5 +64,3 @@ Feito com ♥ by Rocketseat 👋🏻 [Participe da nossa comunidade!](https://di
     <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
   </a>
 </p>
-
-<!--END_SECTION:footer-->

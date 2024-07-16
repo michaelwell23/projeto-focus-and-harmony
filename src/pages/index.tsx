@@ -17,40 +17,42 @@ interface HomeProps {
   challengesCompleted: number;
 }
 
-export default function Home(props: HomeProps) {
+export default function Home({
+  level,
+  currentExperience,
+  challengesCompleted,
+}: HomeProps) {
   return (
-    <>
-      <ChallengesProvider
-        level={props.level}
-        currentExperience={props.currentExperience}
-        challengesCompleted={props.challengesCompleted}
-      >
-        <div className={styles.container}>
+    <ChallengesProvider
+      level={level}
+      currentExperience={currentExperience}
+      challengesCompleted={challengesCompleted}
+    >
+      <CountdownProvider>
+        <main className={styles.container}>
           <Head>
-            <title>Inicio | Move.it</title>
+            <title>move.it | Início</title>
           </Head>
-          x
+
           <ExperienceBar />
-          <CountdownProvider>
-            <section>
-              <div>
-                <Profile />
-                <CompletedChallenges />
-                <Countdown />
-              </div>
-              <div>
-                <ChallengeBox />
-              </div>
-            </section>
-          </CountdownProvider>
-        </div>
-      </ChallengesProvider>
-    </>
+
+          <section>
+            <div className={styles.cycleContainer}>
+              <Profile />
+              <CompletedChallenges />
+              <Countdown />
+            </div>
+
+            <ChallengeBox />
+          </section>
+        </main>
+      </CountdownProvider>
+    </ChallengesProvider>
   );
 }
 
-export const getServerSideProps: GetServerSideProps = async (ctx) => {
-  const { level, currentExperience, challengesCompleted } = ctx.req.cookies;
+export const getServerSideProps: GetServerSideProps = async ({ req }) => {
+  const { level, currentExperience, challengesCompleted } = req.cookies;
 
   return {
     props: {
