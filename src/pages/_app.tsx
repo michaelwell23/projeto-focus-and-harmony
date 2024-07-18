@@ -1,5 +1,4 @@
 import type { AppProps } from 'next/app';
-import { ChallengesProvider } from '@/contexts/ChallengerContext';
 
 import '@/styles/global.css';
 
